@@ -1,5 +1,4 @@
-# ddi-json-flag
-DDI Países com Bandeira
+# DDI Países com Bandeira
 
 ### DATA JSON
 ```json
