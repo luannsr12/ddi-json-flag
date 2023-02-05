@@ -1,5 +1,8 @@
 # DDI Países com Bandeira
 
+### Hosting CloudFlare
+https://api-paises.pages.dev/paises.json
+
 ### DATA JSON
 ```json
 "30": {
